@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/http//:Hamna10.github.io/Netflix/static/css/main.284133b1.chunk.css",
+    "main.js": "/http//:Hamna10.github.io/Netflix/static/js/main.3c909cad.chunk.js",
+    "main.js.map": "/http//:Hamna10.github.io/Netflix/static/js/main.3c909cad.chunk.js.map",
+    "runtime-main.js": "/http//:Hamna10.github.io/Netflix/static/js/runtime-main.c0e0c839.js",
+    "runtime-main.js.map": "/http//:Hamna10.github.io/Netflix/static/js/runtime-main.c0e0c839.js.map",
+    "static/js/2.523fe1ca.chunk.js": "/http//:Hamna10.github.io/Netflix/static/js/2.523fe1ca.chunk.js",
+    "static/js/2.523fe1ca.chunk.js.map": "/http//:Hamna10.github.io/Netflix/static/js/2.523fe1ca.chunk.js.map",
+    "index.html": "/http//:Hamna10.github.io/Netflix/index.html",
+    "static/css/main.284133b1.chunk.css.map": "/http//:Hamna10.github.io/Netflix/static/css/main.284133b1.chunk.css.map",
+    "static/js/2.523fe1ca.chunk.js.LICENSE.txt": "/http//:Hamna10.github.io/Netflix/static/js/2.523fe1ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0e0c839.js",
+    "static/js/2.523fe1ca.chunk.js",
+    "static/css/main.284133b1.chunk.css",
+    "static/js/main.3c909cad.chunk.js"
+  ]
+}
